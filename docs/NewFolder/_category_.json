@@ -1,0 +1,9 @@
+{
+  "label": "New Folder",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "This page comes from a new folder with a _category_.json file, with some config. Adding a New Folder like this creates what can basically be another workshop module. This is useful for creating a new section of the site, or for creating a new module that can be used in other workshops.",
+  }
+}
+  
